@@ -1,4 +1,4 @@
-Live Site URL : []()
+Live Site URL : [https://danielandrew1.github.io/order-summary-1/](https://danielandrew1.github.io/order-summary-1/)
 
 # Frontend Mentor - Order summary card solution
 
