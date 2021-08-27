@@ -1,4 +1,4 @@
-Live Site URL : [https://danielandrew1.github.io/order-summary-1/](https://danielandrew1.github.io/order-summary-1/)
+Live Site URL : [https://dxnielXndrew.github.io/order-summary-1/](https://dxnielXndrew.github.io/order-summary-1/)
 
 # Frontend Mentor - Order summary card solution
 
@@ -52,6 +52,8 @@ Working with images and SVGs
 
 ## Author
 
-- Website - [realdma.tech](https://realdma.tech)
-- Instagram - [Daniel Andrew](https://instagram.com/dxniel_xndrew/)
-- Github - [Daniel Andrew](https://github.com/danielandrew1)
+- Personal Website - [realdma.tech](https://www.realdma.tech)
+- Frontend Mentor - [Daniel Andrew](https://www.frontendmentor.io/profile/DanielAndrew1)
+- Twitter - [DxnielXndrew](https://www.twitter.com/DxnielXndrew)
+- GitHub - [DxnielXndrew](https://github.com/DxnielXndrew)
+- Instagram - [dxniel_xndrew](https://www.instagram.com/dxniel_xndrew/)
